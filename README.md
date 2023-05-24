@@ -1,0 +1,2 @@
+# HelloDjangoWebsocket
+Django + Websocket tutorial
